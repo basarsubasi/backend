@@ -1,8 +1,8 @@
-Calculator.sln
-Calculator/Calculator.csproj
-Calculator/appsettings.json
-Calculator/appsettings.Development.json
-Calculator/obj
-Calculator/bin
-.vscode
-Calculator/Properties
+<Calculator.sln>
+<Calculator/Calculator.csproj>
+<Calculator/appsettings.json>
+<Calculator/appsettings.Development.json>
+<Calculator/obj>
+<Calculator/bin>
+<.vscode>
+<Calculator/Properties>
