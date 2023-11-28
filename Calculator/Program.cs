@@ -21,7 +21,7 @@ public class Calculator
     {
         if (num2 == 0)
         {
-            Console.WriteLine("Hata: Sifira bölme hatasi.");
+            Console.WriteLine("Hata: Sifira bolme hatasi.");
             return double.NaN;
         }
 
