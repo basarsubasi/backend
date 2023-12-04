@@ -23,3 +23,4 @@ c:\Users\basar\Documents\GitHub\backend\Calculator\obj\Debug\net8.0\refint\Calcu
 c:\Users\basar\Documents\GitHub\backend\Calculator\obj\Debug\net8.0\Calculator.pdb
 c:\Users\basar\Documents\GitHub\backend\Calculator\obj\Debug\net8.0\Calculator.genruntimeconfig.cache
 c:\Users\basar\Documents\GitHub\backend\Calculator\obj\Debug\net8.0\ref\Calculator.dll
+c:\Users\basar\Documents\GitHub\backend\Calculator\obj\Debug\net8.0\Calculator.sourcelink.json

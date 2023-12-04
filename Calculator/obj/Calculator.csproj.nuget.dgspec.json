@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\basar\\Documents\\GitHub\\backend\\Calculator\\Calculator.csproj": {}
+    "C:\\Users\\basar\\Documents\\GitHub\\backend\\Calculator\\Calculator.csproj": {}
   },
   "projects": {
-    "c:\\Users\\basar\\Documents\\GitHub\\backend\\Calculator\\Calculator.csproj": {
+    "C:\\Users\\basar\\Documents\\GitHub\\backend\\Calculator\\Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\basar\\Documents\\GitHub\\backend\\Calculator\\Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\basar\\Documents\\GitHub\\backend\\Calculator\\Calculator.csproj",
         "projectName": "Calculator",
-        "projectPath": "c:\\Users\\basar\\Documents\\GitHub\\backend\\Calculator\\Calculator.csproj",
+        "projectPath": "C:\\Users\\basar\\Documents\\GitHub\\backend\\Calculator\\Calculator.csproj",
         "packagesPath": "C:\\Users\\basar\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\basar\\Documents\\GitHub\\backend\\Calculator\\obj\\",
+        "outputPath": "C:\\Users\\basar\\Documents\\GitHub\\backend\\Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\basar\\AppData\\Roaming\\NuGet\\NuGet.Config",
