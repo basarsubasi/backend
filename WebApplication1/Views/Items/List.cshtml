@@ -1,0 +1,46 @@
+@model WebApplication1.Models.Items
+
+@{
+    ViewData["Title"] = "Children's Books";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Items List</title>
+</head>
+<body>
+
+<h2>Childrens Books</h2>
+<ul>
+    @foreach (var book in Model.ChildrensBooks)
+    {
+        <li>
+            <strong>@book.Title</strong> @book.ID - @book.Illustrator - @book.Year - @book.Price -  @book.AgeRange
+        </li>
+        <img src="@Url.Content(book.Image)" alt="@book.Title" style="max-width: 100px; max-height: 100px;" />
+    }
+</ul>
+
+<h2>Philosophy Books</h2>
+<ul>
+    @foreach (var book in Model.PhilosophyBooks)
+    {
+        <li>
+            <strong>@book.Title</strong> @book.ID - @book.Author -  @book.Year - @book.Price 
+        </li>
+    }
+</ul>
+
+<h2>Stationery</h2>
+<ul>
+    @foreach (var item in Model.Stationery)
+    {
+        <li>
+            <strong>@item.Name</strong> - @item.Price
+        </li>
+    }
+</ul>
+
+</body>
+</html>

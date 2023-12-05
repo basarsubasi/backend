@@ -1,0 +1,38 @@
+@model WebApplication1.Models.Items
+
+@{
+    ViewData["Kategori"] = "Çocuk Kitapları";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Çocuk Kitapları</title>
+</head>
+<body>
+
+<h2> Çocuk Kitapları</h2>
+<br />
+<br />
+<ul>
+    @foreach (var book in Model.ChildrensBooks)
+    {
+        <strong>@book.Title</strong>
+        
+        <br />
+        <br />
+
+        <img src="@Url.Content(book.Image)" alt="@book.Title" style="max-width: 100px; max-height: 100px;" />
+
+        <hr />
+
+        <li>
+             ID= @book.ID - Yazar/Çizer= @book.Illustrator - Yayım Yılı= @book.Year - Fiyat= @book.Price - Yaş Aralığı  @book.AgeRange
+        </li>
+
+        <br />
+    }
+</ul>
+
+</body>
+</html>

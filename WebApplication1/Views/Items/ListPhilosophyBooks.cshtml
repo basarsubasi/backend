@@ -1,0 +1,43 @@
+@model WebApplication1.Models.Items
+
+@{
+    ViewData["Kategori"] = "Felsefe Kitapları";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Felsefe Kitapları</title>
+</head>
+<body>
+
+
+<h2>Felsefe Kitapları</h2>
+
+<br />
+<br />
+
+<ul>
+    @foreach (var book in Model.PhilosophyBooks)
+    {
+        <strong>@book.Title</strong>
+        <br />
+        <br />  
+        
+        <img src="@Url.Content(book.Image)" alt="@book.Title" style="max-width: 100px; max-height: 100px;" />
+
+        <hr />
+    
+        
+        <li>
+            ID= @book.ID - Yazar= @book.Author - Yayım Yılı= @book.Year - Fiyat= @book.Price 
+        </li>
+
+        <br />
+    }
+</ul>
+
+
+
+</body>
+</html>

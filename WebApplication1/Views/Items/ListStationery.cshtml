@@ -1,0 +1,33 @@
+@model WebApplication1.Models.Items
+
+@{
+    ViewData["Kategori"] = "Kırtasiye";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Items List</title>
+</head>
+<body>
+
+<h2>Kırtasiye</h2>
+
+<br />
+<br />
+<ul>
+    @foreach (var item in Model.Stationery)
+    {
+        <img src="@Url.Content(item.Image)" alt="@item.Name" style="max-width: 100px; max-height: 100px;" />
+
+        <hr />
+
+        <li>
+            <strong>@item.Name</strong> ID=@item.ID - Ürün Fiyatı= @item.Price
+        </li>
+        <br />
+    }
+</ul>
+
+</body>
+</html>
