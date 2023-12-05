@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Ase7PE9WvzTr+a/VrOwQNigSc6eLo97McZ0fM813FTU=",
+  "Hash": "EwkkBgcNFZ4BlZ6w5fesT3GN50vJqc1c8OroItCGMCY=",
   "Source": "WebApplication1",
   "BasePath": "_content/WebApplication1",
   "Mode": "Default",
@@ -112,6 +112,25 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\AcTirtil.jpg"
     },
     {
+      "Identity": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\AliceHarikalarDiyarinda.png",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "img/books/AliceHarikalarDiyarinda.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\books\\AliceHarikalarDiyarinda.png"
+    },
+    {
       "Identity": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\BoyleBuyurduZerdust.jpg",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
@@ -131,12 +150,12 @@
       "OriginalItemSpec": "wwwroot\\img\\books\\BoyleBuyurduZerdust.jpg"
     },
     {
-      "Identity": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\KendimeDusunceler.jpg",
+      "Identity": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\CetinCeviz.png",
       "SourceId": "WebApplication1",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\",
       "BasePath": "_content/WebApplication1",
-      "RelativePath": "img/books/KendimeDusunceler.jpg",
+      "RelativePath": "img/books/CetinCeviz.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -147,7 +166,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\books\\KendimeDusunceler.jpg"
+      "OriginalItemSpec": "wwwroot\\img\\books\\CetinCeviz.png"
+    },
+    {
+      "Identity": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\KendimeDusunceler1.jpg",
+      "SourceId": "WebApplication1",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/WebApplication1",
+      "RelativePath": "img/books/KendimeDusunceler1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\books\\KendimeDusunceler1.jpg"
     },
     {
       "Identity": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\KucukPrens.jpg",

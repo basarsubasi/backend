@@ -67,6 +67,34 @@ namespace WebApplication1.Controllers
                     Illustrator = "Eric Carle",
                     Image = "~/img/books/AcTirtil.jpg"
                 }
+                ,
+                new ChildrensBooks
+                {
+                    ID = 103,
+                    Title = "Alice Harikalar Diyarında",
+                    Year = 1865,
+                    Price = "25.00₺",
+                    AgeRange = "5-18",
+                    Illustrator = "Lewis Carroll",
+                    Image = "~/img/books/AliceHarikalarDiyarinda.png"
+
+                },
+
+                new ChildrensBooks
+                {
+                    ID = 104,
+                    Title = "Çetin Ceviz",
+                    Year = 2019,
+                    Price = "30.00₺",
+                    AgeRange = "5-12",
+                    Illustrator = "Sinan Yaşar",
+                    Image = "~/img/books/CetinCeviz.png"
+
+                }
+                
+                
+                
+
             };
         }
 
@@ -81,7 +109,7 @@ namespace WebApplication1.Controllers
                     Year = 180,
                     Price = "30.50₺",
                     Author = "Marcus Aurelius",
-                    Image = "~/img/books/KendimeDusunceler.jpg"
+                    Image = "~/img/books/KendimeDusunceler1.jpg"
                 },
                 new PhilosophyBooks
                 {

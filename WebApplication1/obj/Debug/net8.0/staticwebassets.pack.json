@@ -17,12 +17,20 @@
       "PackagePath": "staticwebassets\\img\\books\\AcTirtil.jpg"
     },
     {
+      "Id": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\AliceHarikalarDiyarinda.png",
+      "PackagePath": "staticwebassets\\img\\books\\AliceHarikalarDiyarinda.png"
+    },
+    {
       "Id": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\BoyleBuyurduZerdust.jpg",
       "PackagePath": "staticwebassets\\img\\books\\BoyleBuyurduZerdust.jpg"
     },
     {
-      "Id": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\KendimeDusunceler.jpg",
-      "PackagePath": "staticwebassets\\img\\books\\KendimeDusunceler.jpg"
+      "Id": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\CetinCeviz.png",
+      "PackagePath": "staticwebassets\\img\\books\\CetinCeviz.png"
+    },
+    {
+      "Id": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\KendimeDusunceler1.jpg",
+      "PackagePath": "staticwebassets\\img\\books\\KendimeDusunceler1.jpg"
     },
     {
       "Id": "C:\\Users\\basar\\Documents\\GitHub\\Repos\\backend\\WebApplication1\\wwwroot\\img\\books\\KucukPrens.jpg",
